@@ -19,3 +19,4 @@ $basePath = "C:\ISO Folder"
 
 # Start VM
 & "C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm $vmName
+c
